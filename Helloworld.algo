@@ -1,5 +1,7 @@
 Algo HelloWorld {
  fonction principale {
+//extraction constante
+extraction constante
 // Création de la fenetre
  Créer une fenetre de titre ‘Hello world’
 Mettre la dimension à 200, 200
